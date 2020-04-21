@@ -11,7 +11,20 @@ $(document).foundation();
 //   $(function(){ $(document).foundation(); });
 // });
 
+var j = 0;
+var delay = 5000; //millisecond delay between cycles
+function cycleThru(){
+     var jmax = $(".cyclelist li").length -1;
+     $(".cyclelist li:eq(" + j + ")")
+             .animate({"opacity" : "1"} ,800)
+             .animate({"opacity" : "1"}, delay)
+             .animate({"opacity" : "0"}, 800, function(){
+                     (j == jmax) ? j=0 : j++;
+                     cycleThru();
+             });
+     };
 
+cycleThru();
 
 //
 // Custom JS
