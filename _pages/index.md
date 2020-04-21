@@ -263,15 +263,14 @@ description: We help daring entrepreneurs build Vantage. for Vantage is the high
 			<a href="https://meetings.hubspot.com/aditya16" class="button large">Schedule a 30 min consultation</a>
 		</div>
 	</div> -->
-
 	<div class="grid-container">
-		<div class="grid-x align-center">
+		<!-- <div class="grid-x align-center">
 			<div class="small-12 medium-10 medium-centered large-6 cell b-ws-top">
 				<h3 class="nm">Interested?</h3>
 				<p class="f-1-25x">We are here to help you grow</p>
 				<div class="s-ws-bottom"><a class="button large" href="https://meetings.hubspot.com/aditya16" target="_blank">Let's Talk</a></div>
 			</div>
-		</div>
+		</div> -->
 		<div class="grid-x align-center">
 			<div class="small-12 medium-10 medium-centered large-6 cell s-ws-top">
 				<h3 class="">We reject fame. But sometimes it occurs.</h3>
