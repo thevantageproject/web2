@@ -10,21 +10,27 @@ $(document).foundation();
 // $(document).on('ready page:load', function () {
 //   $(function(){ $(document).foundation(); });
 // });
+// alert('1');
+console.log('1');
 
-var j = 0;
-var delay = 5000; //millisecond delay between cycles
-function cycleThru(){
-     var jmax = $(".cyclelist li").length -1;
-     $(".cyclelist li:eq(" + j + ")")
-             .animate({"opacity" : "1"} ,800)
-             .animate({"opacity" : "1"}, delay)
-             .animate({"opacity" : "0"}, 800, function(){
-                     (j == jmax) ? j=0 : j++;
-                     cycleThru();
-             });
-     };
+$('.trg1').click(function(e){
+    e.preventDefault();
+    $('.rv1').slideDown();
+});
+// var j = 0;
+// var delay = 5000; //millisecond delay between cycles
+// function cycleThru(){
+//      var jmax = $(".cyclelist li").length -1;
+//      $(".cyclelist li:eq(" + j + ")")
+//              .animate({"opacity" : "1"} ,800)
+//              .animate({"opacity" : "1"}, delay)
+//              .animate({"opacity" : "0"}, 800, function(){
+//                      (j == jmax) ? j=0 : j++;
+//                      cycleThru();
+//              });
+//      };
 
-cycleThru();
+// cycleThru();
 
 //
 // Custom JS
