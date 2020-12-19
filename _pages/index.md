@@ -37,7 +37,7 @@ layout: bare
 					<li>Make progress, that nourishes you.</li>
 					<li>Solicit feedback, that builds you.</li>
 				</ul> -->
-				<p>Life is not the actions you make. Life is the quality of existence in your actions. Take a moment, observe life.</p> 
+				<p class="m-ws-top">Life is not the actions you make. Life is the quality of existence in your actions. Take a moment, look within.</p> 
 				<!-- <p class="wcolor2 b-ws-top b-ws-bottom">Base Principal:</p> -->
 				<p class="f-1-5x wc b-ws-top-p nm bold">Truth seeking</p>
 				<p class="wcolor3 s nm">/truːθsiːk/</p>
