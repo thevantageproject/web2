@@ -16,21 +16,21 @@ layout: bare
 					</div> -->
 					<!-- <div class="small-10 cell"> -->
 						<h1 class="sans2 wc f-1-5x" style="line-height:1;">The <br> Vantage <br>Project</h1>
-					<!-- </div> -->
-				<!-- </div> -->
-			</a>
-		</div>
-	</div>
-	<div class="grid-container">
-		<div class="grid-x grid-padding-x align-center">
-			<div class="small-12 medium-10 large-8 cell wc">
-				<h2 class="wc b-ws-top-p nm sans2 f-3x">Ideas, Community and Maps for Individuals playing positive sum games on the internet</h2>
-				<p class="b-ws-bottom wcolor2 f-1-5x">Wealth-creation. Fitness. Happiness.</p>
-				<!-- <p>You live your life through the window that is mind. Where you look and what you see. You </p> -->
-				<blockquote class="twitter-tweet"><p lang="en" dir="ltr" class="wcolor">Understand this:<br>You live your entire life through your mind.<br>If you leave your mind untrained, it will be trained by the society.<br>As a result, you won&#39;t live your life; the society will live it through you.</p>&mdash; Kunal (@CrazyPolymath) <a href="https://twitter.com/CrazyPolymath/status/1194946431481548801?ref_src=twsrc%5Etfw" class="scolor s2">November 14, 2019</a></blockquote>
-				<p>How?</p>
-				<blockquote class="twitter-tweet"><p lang="en" dir="ltr" class="wcolor">Look for truth. There&#39;s no utility at the end of this path, but on the way you&#39;ll discover the games your mind plays. Become aware of these game.</p>&mdash; Kunal (@CrazyPolymath) <a href="https://twitter.com/CrazyPolymath/status/1254583374280179712?ref_src=twsrc%5Etfw" class="scolor s2">April 27, 2020</a></blockquote>
-				<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+						<!-- </div> -->
+						<!-- </div> -->
+					</a>
+				</div>
+			</div>
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x align-center">
+					<div class="small-12 medium-10 large-8 cell wc">
+						<h2 class="wc b-ws-top-p nm sans2 f-3x">Ideas, Community and Maps for Individuals playing positive sum games on the internet</h2>
+						<p class="b-ws-bottom wcolor2 f-1-5x">Wealth-creation. Fitness. Happiness.</p>
+						<!-- <p>You live your life through the window that is mind. Where you look and what you see. You </p> -->
+						<blockquote class="twitter-tweet"><p lang="en" dir="ltr" class="wcolor">Understand this:<br>You live your entire life through your mind.<br>If you leave your mind untrained, it will be trained by the society.<br>As a result, you won&#39;t live your life; the society will live it through you.</p>&mdash; Kunal (@CrazyPolymath) <a href="https://twitter.com/CrazyPolymath/status/1194946431481548801?ref_src=twsrc%5Etfw" class="scolor s2">November 14, 2019</a></blockquote>
+						<p>How?</p>
+						<blockquote class="twitter-tweet"><p lang="en" dir="ltr" class="wcolor">Look for truth. There&#39;s no utility at the end of this path, but on the way you&#39;ll discover the games your mind plays. Become aware of these game.</p>&mdash; Kunal (@CrazyPolymath) <a href="https://twitter.com/CrazyPolymath/status/1254583374280179712?ref_src=twsrc%5Etfw" class="scolor s2">April 27, 2020</a></blockquote>
+						<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 				<!-- <ul>
 					<li>Build a mind, that serves you.</li>
 					<li>Create a network, that supports you.</li>
@@ -54,8 +54,18 @@ layout: bare
 				</div>
 				<p class="f-1-25x nm bold">Truth-seeking applied inwards completes freedom. <a href="https://www.youtube.com/watch?v=GYMW_uhc0is" target="_blank"><i class="fas fa-arrow-right"></i></a></p>
 				<p class="wcolor2">Self-awareness. Meditation. Neuroscience.</p>
-				<div class="b-ws-top b-ws-bottom b-ws-top-p b-ws-bottom-p"><a href="https://join.slack.com/t/thevantageproject/shared_invite/zt-k6xmoao0-eNrVXH9kEmeYMs3~M3WmDw"><img src="https://a.slack-edge.com/80588/img/sign_in_with_slack.png" class="b-ws-right"></a> </div>
-				<blockquote class="wc f-1-25x b-ws-bottom">"When self-improvement fails, work on discovering the truth"<cite><a href="https://nav.al/truth" target="_blank">The Path to Peace Is Truth | Naval</a></cite></blockquote>
+				<!-- <div class="b-ws-top b-ws-bottom b-ws-top-p b-ws-bottom-p"><a href="https://join.slack.com/t/thevantageproject/shared_invite/zt-k6xmoao0-eNrVXH9kEmeYMs3~M3WmDw"><img src="https://a.slack-edge.com/80588/img/sign_in_with_slack.png" class="b-ws-right"></a> </div> -->
+				<div class="b-ws-top b-ws-bottom-p b-ws-bottom b-ws-top-p">
+					<h5 class="wc">Do you have an invite? If not request one:</h5>
+					<p class="wcolor2">Invites are sent when a new batch initiates.</p>	
+					<div class="m-ws-top">
+						<a href="https://thevantageproject.us7.list-manage.com/subscribe/post?u=0d4dd4ae435134df55af5e5b3&amp;id=e1150b4c19" class="button">Reserve me a spot</a>
+					</div>
+				</div>
+				<div>
+					<!--End mc_embed_signup-->
+					<blockquote class="wc f-1-25x b-ws-bottom">"When self-improvement fails, work on discovering the truth"<cite><a href="https://nav.al/truth" target="_blank">The Path to Peace Is Truth | Naval</a></cite></blockquote>
+				</div>
 			</div>
 		</div>
 	</div>
